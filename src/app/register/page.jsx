@@ -1,5 +1,5 @@
-const egister = () => {
-    return <div>Forget Password</div>;
+const Register = () => {
+    return <div>Register</div>;
   };
   
-  export default egister;
+  export default Register;
